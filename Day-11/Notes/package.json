@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "redis-cli": "^2.1.2"
+  }
+}
